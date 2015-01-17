@@ -40,6 +40,21 @@ output: index.html
 
 --
 
+--
+
+### 行銷公關暨新聞稿架構
+
+<br />
+<h2 style="font-size: 60px">
+<b>行銷公關與募款贊助</b>
+</h2>
+
+<br />
+<h2 style="font-size: 60px">
+<b>新聞稿撰寫教學</b>
+</h2>
+
+--
 <h1 style="font-size: 72px">
   Thanks for listening!
 </h1>
