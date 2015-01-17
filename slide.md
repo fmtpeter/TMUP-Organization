@@ -51,6 +51,16 @@ output: index.html
 <h2 style="font-size: 60px">
 <b>新聞稿撰寫教學</b>
 </h2>
+--
+
+### Who am I ?
+
+<br />
+<h2 style="font-size: 60px">
+<b>行銷公關</b>
+</h2>
+
+* 整合本身所擁有的資源，透過企劃和創意的方式，對活動、事件進行傳播，使之宣傳至一般大眾，成為大眾關心的話題、議題，從而吸引媒體的報導與民眾的參與。
 
 --
 <h1 style="font-size: 72px">
