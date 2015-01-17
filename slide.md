@@ -241,7 +241,6 @@ Hackthon<br />
   <img src="./img/firelamp_logo.png" width="200px" /><br />
 </h1>
 
-<br /><br /><br />
 <div align="center">
 <img width="100" src="./img/by-sa.png" />
 </div>
