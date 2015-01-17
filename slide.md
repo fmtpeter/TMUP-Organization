@@ -101,11 +101,10 @@ Hackthon<br />
 聖鬥士首部 3D 電影，粉絲首映會大獻寶
 </h2>
 
+<br />
 <div align="center">
-<img src="./img/pic1.jpg" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hi6Hxgly1u0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-## <a href="https://www.youtube.com/watch?v=hi6Hxgly1u0" target="_blank" style="font-size: 28px">東森新聞 電影《聖鬥士星矢：聖域傳說》首映會粉絲大獻寶報導</a>
 
 --
 
@@ -115,11 +114,9 @@ Hackthon<br />
 哆啦A夢行銷術特映會先亮「道具」換票
 </h2>
 
-<div align="center">
-<img src="./img/pic1.jpg" />
-</div>
+<br /><br /><br />
 
-## <a href="https://www.youtube.com/watch?v=NJhYfy6_10A" target="_blank" style="font-size: 28px">東森新聞 哆啦A夢行銷術　特映會先亮「道具」換票</a>
+## <a href="https://www.youtube.com/watch?v=" target="_blank" style="font-size: 28px">東森新聞 哆啦A夢行銷術　特映會先亮「道具」換票</a>
 
 --
 
@@ -177,6 +174,8 @@ Hackthon<br />
 3. 確實宣傳、和贊助單位保持聯繫
 4. 活動結束後的感謝狀
 
+<br />
+
 ## <a href="https://www.youtube.com/watch?v=DS0xwN_O14M" target="_blank" style="font-size: 28px">影片: 給賭神的影帶</a>
 
 --
@@ -215,6 +214,11 @@ Hackthon<br />
     * 定標時間
     * 撰文前、中、後
     * 標題選用
+
+--
+
+### 新聞稿架構
+
 * 撰文
     * 簡述本次活動內容
         * 人、事、時、地、物
@@ -222,7 +226,6 @@ Hackthon<br />
         * 起、承、轉、合
         * 文字精煉
 * 活動照片
-
 --
 
 ### 撰寫討論與實作
