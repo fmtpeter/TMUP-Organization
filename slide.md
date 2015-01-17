@@ -238,6 +238,7 @@ Hackthon<br />
 
 <h1 style="font-size: 72px">
   Thanks for listening!
+  <img src="./img/firelamp_logo.png" width="200px" /><br />
 </h1>
 
 <br /><br /><br />
