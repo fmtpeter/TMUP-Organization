@@ -114,7 +114,10 @@ Hackthon<br />
 哆啦A夢行銷術特映會先亮「道具」換票
 </h2>
 
-<br /><br /><br />
+<br />
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hi6Hxgly1u0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## <a href="https://www.youtube.com/watch?v=" target="_blank" style="font-size: 28px">東森新聞 哆啦A夢行銷術　特映會先亮「道具」換票</a>
 
